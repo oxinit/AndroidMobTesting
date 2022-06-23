@@ -1,0 +1,7 @@
+2022-06-23 01:59:51 INFO  [TestNG] Running:
+  C:\Users\vexli\AppData\Local\JetBrains\IdeaIC2021.2\temp-testng-customsuite.xml
+
+2022-06-23 01:59:51 INFO  onStart method started 
+2022-06-23 01:59:51 INFO  Method started newtest
+2022-06-23 02:00:29 INFO  Method passed newtest
+2022-06-23 02:00:29 INFO  onFinish method finished 
